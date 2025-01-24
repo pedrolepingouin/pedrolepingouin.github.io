@@ -1,0 +1,3 @@
+git add .
+git commit -m "pedrolepingouin.github.io"
+git push origin main
